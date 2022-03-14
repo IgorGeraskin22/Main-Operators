@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 # (цикл for)
-
+#
 import simple_draw as sd
 sd.resolution = (1200, 600)
 
