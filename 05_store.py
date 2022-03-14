@@ -63,4 +63,3 @@ for title, code in goods.items():  # Используем функцию .items(
 
     print(title, " - ", total_quantity, " шт, ", 'стоимость', total_cost, " руб")
 
-# зачет!
