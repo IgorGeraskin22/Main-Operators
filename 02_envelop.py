@@ -72,4 +72,4 @@ elif (hole_x > brick_y) and (hole_y > brick_z):  # Тычок - самая ко�
 else:
     print('Нет')
 
-# зачет!
+
