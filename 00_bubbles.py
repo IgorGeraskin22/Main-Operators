@@ -33,4 +33,4 @@ for _ in range(100):
 
 sd.pause()
 
-# зачет!
+
