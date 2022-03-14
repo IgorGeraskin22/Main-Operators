@@ -2,7 +2,7 @@
 import simple_draw as sd
 
 sd.resolution = (1200, 600)
-
+#
 # Нарисовать пузырек - три вложенных окружностей с шагом 5 пикселей
 for x in range(50, 65, 5):
     sd.circle(center_position=sd.get_point(600, 300), radius=x, width=2)
