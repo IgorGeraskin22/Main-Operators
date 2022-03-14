@@ -45,4 +45,3 @@ def draw_smiley():
 draw_smiley()
 sd.pause()
 
-# зачет!
