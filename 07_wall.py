@@ -43,4 +43,3 @@ for y in range(0, sd.resolution[1], BRICK_SIZE.y):
 
 sd.pause()
 
-# зачет!
