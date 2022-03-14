@@ -4,7 +4,7 @@
 import random
 
 import simple_draw as sd
-
+#
 sd.resolution = (1200, 600)
 
 # Написать функцию отрисовки смайлика по заданным координатам
