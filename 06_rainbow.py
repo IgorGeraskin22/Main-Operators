@@ -31,4 +31,3 @@ for col in rainbow_colors:
 
 sd.pause()
 
-# зачет!
